@@ -1,0 +1,9 @@
+/*
+ *= require_self
+ */
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import 'posts';
+@import 'main';
+@import 'tags';
+@import 'paginate';
